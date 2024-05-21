@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirosaz&label=Profile%20views&color=0e75b6&style=flat" alt="nirosaz" /> </p>
 
+- 🌱 I’m currently learning **more about python**
+
 - 📫 How to reach me **nir14533c@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nir-azulay/](https://www.linkedin.com/in/nir-azulay/)
